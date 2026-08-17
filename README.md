@@ -20,7 +20,8 @@ AI 에이전트를 적극 활용해 아이디어를 빠르게 프로토타이핑
 * **주요 역량:**&nbsp;&nbsp;AI Agent 기반 E2E 빠른 개발 · AI/음성 데이터 파이프라인 연동 · 비동기/병렬 시스템 최적화 · B2B DB 스키마 설계
 * **요즘 집중하는 분야:**&nbsp;&nbsp;AI 에이전트(Cursor, Claude Code) 활용 생산성 극대화, 병목/Latency 해소, pgvector 하이브리드 검색
 * **연락처:**&nbsp;&nbsp;devgg1996@gmail.com
-* **링크:**&nbsp;&nbsp;[Tech Blog](https://taeging.tistory.com/) | [Notion Portfolio](https://www.notion.so/eed3880d72ea49a1a1060295b721f627?v=b86e8f658e3344a187711767179b30d2)
+* **링크:**&nbsp;&nbsp;[Tech Blog](https://taeging.tistory.com/)
+<!-- * **링크:[Notion Study](https://www.notion.so/eed3880d72ea49a1a1060295b721f627?v=b86e8f658e3344a187711767179b30d2) -->
 
 <br/>
 
