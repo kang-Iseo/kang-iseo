@@ -55,4 +55,4 @@ AI 에이전트를 적극 활용해 아이디어를 빠르게 프로토타이핑
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kang-iseo&show_icons=true&theme=graywhite)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kang-iseo&show_icons=true&theme=graywhite)
