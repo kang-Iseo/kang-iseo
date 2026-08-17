@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- 캐릭터 이미지 (크기는 width로 조절 가능합니다) -->
-<img width="200" alt="스크린샷 2026-08-17 오후 10 05 18" src="https://github.com/user-attachments/assets/0d4f1baa-7eb3-4a6c-b3d2-9cf545120374" />
+<img width="250" alt="스크린샷 2026-08-17 오후 10 05 18" src="https://github.com/user-attachments/assets/0d4f1baa-7eb3-4a6c-b3d2-9cf545120374" />
 
-# 강이서 <br/> Kang Iseo
-**AI를 활용해 아이디어를 가장 빠르게 프로덕션으로 연결하는 백엔드 개발자 강이서입니다.**
+# 강이서 &nbsp;&nbsp;Iseo Kang
+
+<h3>AI를 활용해 아이디어를 가장 빠르게 프로덕션으로 연결하는 백엔드 개발자</h3>
 
 AI 에이전트를 적극 활용해 아이디어를 빠르게 프로토타이핑하고,  
-유연한 백엔드 설계를 통해 AI 모델의 한계를 극복합니다.
+유연한 백엔드 설계를 통해 완성도 높은 AI 서비스를 구축합니다.
 
 <br/>
 
 </div>
-
 
 ### About Me
 
@@ -53,6 +53,15 @@ AI 에이전트를 적극 활용해 아이디어를 빠르게 프로토타이핑
 <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=OpenAI&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
 
+<br/>
+<br/>
+
 ---
 
+<br/>
+
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=kang-iseo&show_icons=true&theme=graywhite)
+
+</div>
